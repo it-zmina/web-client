@@ -20,4 +20,4 @@ _Template for web client_
 2. Add `div` tag with text programmatically using `index.js` script: ![doc/step3-2.png](doc/step3-2.png)
 
 ## Step 4 -- Add image programmatically
-1. Add image to `div` tag programmatically using `index.js` script: ![doc/step3-2.png](doc/step3-1.png) 
+1. Add image to `div` tag programmatically using `index.js` script: ![doc/step4-1.png](doc/step4-1.png) 
